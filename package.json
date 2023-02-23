@@ -1,0 +1,24 @@
+{
+  "name": "json-server-pasticbee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vetrivelanarsu/json-server-pasticbee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vetrivelanarsu/json-server-pasticbee/issues"
+  },
+  "homepage": "https://github.com/vetrivelanarsu/json-server-pasticbee#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
