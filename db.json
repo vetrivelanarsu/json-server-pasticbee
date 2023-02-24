@@ -8,7 +8,8 @@
            "image" : "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B600%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9781368089289_p0_v3_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B600x10000%5D&sink=format%5Bwebp%5D",
            "price" : 24.99,
            "pages": 234,
-           "isbn": "wt345"
+           "isbn": "wt345",
+           "genre":"Horror"
         },
         {
             "id": 2,
@@ -18,7 +19,8 @@
               "image" : "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B600%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780345367891_p0_v2_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B600x10000%5D&sink=format%5Bwebp%5D",
               "price" : 44.99,
                "pages": 434,
-               "isbn": "sde435" 
+               "isbn": "sde435",
+               "genre":"Horror"
         },
         {
             "id": 3,
@@ -28,7 +30,8 @@
              "image" : "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781501142970_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
               "price" : 34.00,
                "pages": 500,
-               "isbn": "gt315" 
+               "isbn": "gt315",
+               "genre":"Horror" 
         },
         {
             "id": 4,
@@ -38,7 +41,8 @@
               "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593545768_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
               "price" : 14.59,
                "pages": 250,
-               "isbn": "yy035" 
+               "isbn": "yy035",
+               "genre":"Horror"
         },
         {
             "id": 5,
@@ -48,7 +52,8 @@
             "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250830753_p0_v12%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 89.86,
             "pages" : 145,
-            "isbn": "qwer12"
+            "isbn": "qwer12",
+            "genre":"Horror"
         },
         {
             "id": 6,
@@ -58,7 +63,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316501071_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 189.00,
             "pages" : 195,
-            "isbn": "avr12"
+            "isbn": "avr12",
+            "genre":"Horror"
         },
         {
             "id": 7,
@@ -68,7 +74,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250882370_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 200.00,
             "pages" : 150,
-            "isbn": "bbr14"
+            "isbn": "bbr14",
+            "genre":"Adventure"
         },
         {
             "id": 8,
@@ -78,7 +85,8 @@
             "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781728276113_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 309.00,
             "pages" : 250,
-            "isbn": "mmhr14"
+            "isbn": "mmhr14",
+            "genre":"Romantic"
         },
         {
             "id": 9,
@@ -88,7 +96,8 @@
             "image" : "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781368099059_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 49.00,
             "pages" : 110,
-            "isbn": "samhr190"
+            "isbn": "samhr190",
+            "genre":"Romantic"
         },
         {
             "id": 10,
@@ -98,7 +107,8 @@
             "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385547345_p0_v17%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 56.78,
             "pages" : 100,
-            "isbn": "lamhr190"
+            "isbn": "lamhr190",
+            "genre":"Romantic"
         },
         {
             "id": 11,
@@ -108,7 +118,8 @@
             "image" : "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781728205489_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 256.78,
             "pages" : 234,
-            "isbn": "ved190"
+            "isbn": "ved190",
+            "genre":"Romantic"
         },
         {
             "id": 12,
@@ -118,17 +129,19 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781401969929_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 25.00,
             "pages" : 134,
-            "isbn": "vet0090"
+            "isbn": "vet0090",
+            "genre":"Romantic"
         },
         {
             "id": 13,
             "author_id" : 13,
             "name":"Young Forever",
             "author": "Mark Hyman",
-            "iimage":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316453189_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+            "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780316453189_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 250.00,
             "pages" : 245,
-            "isbn": "ars060"
+            "isbn": "ars060",
+            "genre":"Health"
         },
         {
             "id": 14,
@@ -138,7 +151,8 @@
             "image" : "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780553393972_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 450.00,
             "pages" : 905,
-            "isbn": "ccd060"
+            "isbn": "ccd060",
+            "genre":"Biography"
         },
         {
             "id": 15,
@@ -148,7 +162,8 @@
             "image" : "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781627793667_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 50.00,
             "pages" : 95,
-            "isbn": "cxxv0"
+            "isbn": "cxxv0",
+            "genre":"Biography"
         },
         {
             "id": 16,
@@ -158,7 +173,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781538700433_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 1150.00,
             "pages" : 1000,
-            "isbn": "xnpy0"
+            "isbn": "xnpy0",
+            "genre":"Biography"
         },
         {
             "id": 17,
@@ -168,7 +184,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781492649366_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 330.00,
             "pages" : 450,
-            "isbn": "ming123"
+            "isbn": "ming123",
+            "genre":"Romantic"
         },
         {
             "id": 18,
@@ -178,7 +195,8 @@
             "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062995476_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 1330.00,
             "pages" : 2050,
-            "isbn": "don323"
+            "isbn": "don323",
+            "genre":"Biography"
         },
         {
             "id": 19,
@@ -188,7 +206,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781501181597_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 144.00,
             "pages" : 667,
-            "isbn": "do231"
+            "isbn": "do231",
+            "genre":"Biography"
         },
         {
             "id": 20,
@@ -198,7 +217,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593334836_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 204.00,
             "pages" : 67,
-            "isbn": "litt3"
+            "isbn": "litt3",
+            "genre":"Romantic"
         },
         {
             "id": 21,
@@ -208,7 +228,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593639672_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 104.00,
             "pages" : 119,
-            "isbn": "emit3"
+            "isbn": "emit3",
+            "genre":"Romantic"
         },
         {
             "id": 22,
@@ -218,7 +239,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780063238985_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 404.00,
             "pages" : 250,
-            "isbn": "tessa7"
+            "isbn": "tessa7",
+            "genre":"Romantic"
         },
         {
             "id": 23,
@@ -228,7 +250,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593336823_p0_v7%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 994.00,
             "pages" : 650,
-            "isbn": "ali7"
+            "isbn": "ali7",
+            "genre":"Romantic"
         },
         {
             "id": 24,
@@ -238,7 +261,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593336489_p0_v5%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 344.00,
             "pages" : 200,
-            "isbn": "ash44"
+            "isbn": "ash44",
+            "genre":"Romantic"
         },
         {
             "id": 25,
@@ -248,7 +272,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781668002773_p0_v6%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 700.00,
             "pages" : 120,
-            "isbn": "elea2"
+            "isbn": "elea2",
+            "genre":"Romantic"
         },
         {
             "id": 26,
@@ -258,7 +283,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781668013359_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 210.00,
             "pages" : 210,
-            "isbn": "coll34"
+            "isbn": "coll34",
+            "genre":"Romantic"
         },
         {
             "id": 27,
@@ -268,7 +294,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781728267500_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 355.00,
             "pages" : 500,
-            "isbn": "charl04"
+            "isbn": "charl04",
+            "genre":"Romantic"
         },
         {
             "id": 28,
@@ -278,7 +305,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250284112_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 450.00,
             "pages" : 400,
-            "isbn": "norl4"
+            "isbn": "norl4",
+            "genre":"Romantic"
         },
         {
             "id": 29,
@@ -288,7 +316,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781945631610_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 697.00,
             "pages" : 323,
-            "isbn": "lucl4"
+            "isbn": "lucl4",
+            "genre":"Romantic"
         },
         {
             "id": 30,
@@ -298,7 +327,8 @@
             "image":"https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780385474542_p0_v4%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
             "price" : 107.00,
             "pages" : 167,
-            "isbn": "chin0"
+            "isbn": "chin0",
+            "genre":"Romantic"
         }
     ]
 }
